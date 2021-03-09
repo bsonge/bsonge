@@ -2,8 +2,6 @@
 
 Hi, I'm Brayden. I occasionally do stuff.
 
-![red-boi-gradient](https://user-images.githubusercontent.com/22086468/110401535-56a6d080-803f-11eb-920e-04f5f55ea7ac.png)
-
 <!--
 **bsonge/bsonge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
