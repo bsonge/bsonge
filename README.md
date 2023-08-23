@@ -1,6 +1,6 @@
 ### Brayden Songe
 
-Hi, I'm Brayden. I occasionally do stuff.
+Web development is a never ending journey.
 
 <!--
 **bsonge/bsonge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
